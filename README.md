@@ -1,4 +1,4 @@
-# Frontend Mentor - Testimonials grid section
+# Frontend Mentor - Landing Page
 Olá a todos, este é mais um desafio feito pelo frontend mentor e estou muito feliz de compartilha-lo com o mundo! Na verdade, este foi um dos primeiros exercicios que fiz usando HTML e CSS, estou revisiotando para aprimora-lo e conferir minha evolução na programação
 
 ## Ideias, Planejamento e Execução
