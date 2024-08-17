@@ -1,0 +1,42 @@
+@media (max-width: 425px)
+{  
+    .content{
+        margin-left: 40px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .illustration img{
+        max-height: 200px;
+        margin-left: 40px;
+    }
+
+    header img{
+        margin-left: 35px;
+        max-width: 150px;
+    }
+    
+    .container{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    
+    .info{
+        display: flex;
+        flex-direction: column;
+        margin: 50px 50px;
+        gap: 20px;
+    }
+    
+    .btn{
+       max-width: 300px; 
+    }
+
+    .social{
+        display: flex;
+        justify-content: center;
+    }
+}
